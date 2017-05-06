@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Paley Pain Support/FirstViewController.swift"
+            timestampString = "515723630.14746"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "FirstViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Paley_Pain_Support.FirstViewController.__deallocating_deinit"
+                  moduleName = "Paley Pain Support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beltib/Desktop/Paley%20Pain%20Support/Paley%20Pain%20Support/FirstViewController.swift"
+                  timestampString = "515722509.237203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Paley_Pain_Support.FirstViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Paley_Pain_Support.FirstViewController"
+                  moduleName = "Paley Pain Support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beltib/Desktop/Paley%20Pain%20Support/Paley%20Pain%20Support/FirstViewController.swift"
+                  timestampString = "515722509.240336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Paley_Pain_Support.FirstViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Paley_Pain_Support.FirstViewController"
+                  moduleName = "Paley Pain Support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beltib/Desktop/Paley%20Pain%20Support/Paley%20Pain%20Support/FirstViewController.swift"
+                  timestampString = "515722509.242728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Paley_Pain_Support.FirstViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Paley_Pain_Support.FirstViewController&gt;"
+                  moduleName = "Paley Pain Support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beltib/Desktop/Paley%20Pain%20Support/Paley%20Pain%20Support/FirstViewController.swift"
+                  timestampString = "515722509.244949"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "9">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Paley_Pain_Support.FirstViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Paley_Pain_Support.FirstViewController&gt;"
+                  moduleName = "Paley Pain Support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beltib/Desktop/Paley%20Pain%20Support/Paley%20Pain%20Support/FirstViewController.swift"
+                  timestampString = "515722509.246883"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Paley Pain Support/FirstViewController.swift"
+            timestampString = "515724837.970896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "SliderSlid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
